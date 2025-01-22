@@ -1,0 +1,7 @@
+C:\Users\elissama.fpena\Documents\Visual Studio 2022\Logicadeprogramacao\Logica03\Logica03\bin\Debug\Logica03.exe.config
+C:\Users\elissama.fpena\Documents\Visual Studio 2022\Logicadeprogramacao\Logica03\Logica03\bin\Debug\Logica03.exe
+C:\Users\elissama.fpena\Documents\Visual Studio 2022\Logicadeprogramacao\Logica03\Logica03\bin\Debug\Logica03.pdb
+C:\Users\elissama.fpena\Documents\Visual Studio 2022\Logicadeprogramacao\Logica03\Logica03\obj\Debug\Logica03.csproj.AssemblyReference.cache
+C:\Users\elissama.fpena\Documents\Visual Studio 2022\Logicadeprogramacao\Logica03\Logica03\obj\Debug\Logica03.csproj.CoreCompileInputs.cache
+C:\Users\elissama.fpena\Documents\Visual Studio 2022\Logicadeprogramacao\Logica03\Logica03\obj\Debug\Logica03.exe
+C:\Users\elissama.fpena\Documents\Visual Studio 2022\Logicadeprogramacao\Logica03\Logica03\obj\Debug\Logica03.pdb
